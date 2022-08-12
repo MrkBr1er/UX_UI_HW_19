@@ -25,15 +25,15 @@ nav {
   display: inline-block;
   background-color: rgb(85, 85, 85);
   border-radius: 5px;
-  height: 200px;
-  width: 150px;
+  height: 300px;
+  width:200px;
   margin: 35px;
   margin-top: px;
 
 }
 .block_element {
   display: inline-block;
-  background-color: #C6C6C6;
+  background-color: #c6c6c6;
 }
 
 .info-body {
