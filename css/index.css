@@ -1,0 +1,52 @@
+nav {
+  height: 75px;
+  background-color: rgb(87, 0, 0);
+}
+.inline-block {
+  padding: 12px;
+  display: inline-block;
+ }
+.left {
+  float: left;
+  height: 500px;
+  background-color: rgb(255, 255, 255);
+  width: 30%;
+  text-align: center;
+}
+.right {
+  float: left;
+  background-color: rgb(85, 85, 85);
+  height: 410px;
+  width: 70%;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  background-color: rgb(85, 85, 85);
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: px;
+
+}
+.block_element {
+  display: inline-block;
+  background-color: #C6C6C6;
+}
+
+.info-body {
+  text-decoration: wavy;
+  text-align: center;
+  padding-top: 40px;
+}
+.wrapper {
+  padding-top: 10px;
+
+}
+
+.button{
+  align-items: center;
+  color: rgb(43, 43, 106);
+}
